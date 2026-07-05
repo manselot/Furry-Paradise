@@ -1,0 +1,27 @@
+{
+  "id": "conv-1783228087818-40ulba45f",
+  "providerId": "claude",
+  "title": "Summarize plot from multiple files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783228087818,
+  "updatedAt": 1783228231551,
+  "lastResponseAt": 1783228231551,
+  "sessionId": "174e60b2-36ce-4bd0-b689-d939568a222e",
+  "providerState": {
+    "providerSessionId": "174e60b2-36ce-4bd0-b689-d939568a222e"
+  },
+  "currentNote": "Квесты/Основа сюжета.md",
+  "externalContextPaths": [
+    "C:\\Users\\asker\\Pictures\\Furry Paradise"
+  ],
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4946,
+    "cacheReadInputTokens": 58782,
+    "contextWindow": 1000000,
+    "contextTokens": 63730,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}
