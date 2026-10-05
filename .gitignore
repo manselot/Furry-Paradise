@@ -1,2 +1,16 @@
+# Состояние окон Obsidian — меняется при каждом клике
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Настройки плагинов: здесь лежит токен доступа MCP-коннектора
+.obsidian/plugins/*/data.json
+
+# Корзина Obsidian и системный мусор
+.trash/
+.DS_Store
+Thumbs.db
+
+# Папка плагина Claudian (была в старом .gitignore)
 .claudian/
-.obsidian/
+.obsidian/plugins/
